@@ -1,8 +1,9 @@
 # CRUD web-application
-Educational project<br />
+Educational project.
 
 Technologies:
-<li >Java 11</li>
+======
+<li>Java 11</li>
 <li>PostgreSQL</li>
 <li>JSP</li>
 <li>Spring boot</li>
