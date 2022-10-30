@@ -1,7 +1,7 @@
 # CRUD web-application
 Educational project.
 
-Technologies:
+Technologies
 ======
 <li>Java 11</li>
 <li>PostgreSQL</li>
